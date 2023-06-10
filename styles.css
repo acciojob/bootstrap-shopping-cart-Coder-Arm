@@ -61,7 +61,7 @@ h6{
 .left, .right{
 	width: 49%;
 }
-.subtotal, .discount, .shipping{
+.summary-item{
 	border-bottom: 1px solid grey;
 }
 
